@@ -76,8 +76,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1_enemys.cpp" />
-    <ClCompile Include="2_puzzle.cpp" />
+    <ClCompile Include="Easy 1 Onboarding enemys.cpp" />
+    <ClCompile Include="Easy 2 Puzzle SKYNET - THE CHASM.cpp" />
+    <ClCompile Include="Easy 3 Puzzle - Kirk%27s Quest - The Descent.cpp" />
+    <ClCompile Include="Easy 4 Puzzle - Ragnarök - Power of Thor.cpp" />
+    <ClCompile Include="Hard 1 The Labyrinth.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
