@@ -1,0 +1,30 @@
+#cpp 
+ipch/
+*.sdf
+*.opensdf
+*.pch
+*.aps
+#Attn: do not ignore *.tlh
+
+#for .net
+[Oo]bj/
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+
+#for Visual studio
+packages/
+TestResults/
+
+#User Settings
+*.suo
+#user dependent parameters should be put in project files
+*.user
+
+#Temporary files
+*.bak
+*.log
+tmp.fxcop
+CMake.g/
+
+#https://github.com/davidfowl/JabbR/blob/master/.gitignore
